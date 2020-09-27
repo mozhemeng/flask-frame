@@ -1,0 +1,64 @@
+# Chinese translations for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-09-16 16:35+0800\n"
+"PO-Revision-Date: 2020-09-16 16:35+0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh\n"
+"Language-Team: zh <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+#: appname/errors/error_instance.py:24
+msgid "bad request"
+msgstr "请求错误"
+
+#: appname/errors/error_instance.py:29
+msgid "not allowed"
+msgstr "不被允许"
+
+#: appname/errors/error_instance.py:34
+msgid "permission deny"
+msgstr "没有权限"
+
+#: appname/errors/error_instance.py:39
+msgid "username or password wrong"
+msgstr "用户名或密码错误"
+
+#: appname/errors/error_instance.py:44
+msgid "username already exists"
+msgstr "用户名已存在"
+
+#: appname/errors/error_instance.py:49
+msgid "unauthorized"
+msgstr "未登陆"
+
+#: appname/errors/error_instance.py:54
+msgid "unauthorized token wrong"
+msgstr "令牌错误"
+
+#: appname/errors/error_instance.py:59
+msgid "unauthorized token expire"
+msgstr "令牌过期"
+
+#: appname/errors/error_instance.py:64
+msgid "unauthorized user not exist"
+msgstr "用户不存在"
+
+#: appname/errors/error_instance.py:69
+msgid "resource not found"
+msgstr "资源未找到"
+
+#: appname/errors/error_instance.py:74
+msgid "delete failed"
+msgstr "删除失败"
+

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "all_user"
+  },
+  {
+    "name": "get_user"
+  },
+  {
+    "name": "create_user"
+  },
+  {
+    "name": "update_user"
+  },
+  {
+    "name": "delete_user"
+  },
+  {
+    "name": "all_role"
+  },
+  {
+    "name": "get_role"
+  },
+  {
+    "name": "create_role"
+  },
+  {
+    "name": "update_role"
+  },
+  {
+    "name": "delete_role"
+  },
+  {
+    "name": "all_permission"
+  }
+]

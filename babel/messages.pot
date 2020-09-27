@@ -1,0 +1,63 @@
+# Translations template for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-09-16 16:35+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+#: appname/errors/error_instance.py:24
+msgid "bad request"
+msgstr ""
+
+#: appname/errors/error_instance.py:29
+msgid "not allowed"
+msgstr ""
+
+#: appname/errors/error_instance.py:34
+msgid "permission deny"
+msgstr ""
+
+#: appname/errors/error_instance.py:39
+msgid "username or password wrong"
+msgstr ""
+
+#: appname/errors/error_instance.py:44
+msgid "username already exists"
+msgstr ""
+
+#: appname/errors/error_instance.py:49
+msgid "unauthorized"
+msgstr ""
+
+#: appname/errors/error_instance.py:54
+msgid "unauthorized token wrong"
+msgstr ""
+
+#: appname/errors/error_instance.py:59
+msgid "unauthorized token expire"
+msgstr ""
+
+#: appname/errors/error_instance.py:64
+msgid "unauthorized user not exist"
+msgstr ""
+
+#: appname/errors/error_instance.py:69
+msgid "resource not found"
+msgstr ""
+
+#: appname/errors/error_instance.py:74
+msgid "delete failed"
+msgstr ""
+
